@@ -2,7 +2,7 @@
 
 * Main website : [GeetHub](https://geethub.netlify.com)
 * Geet-Hub Editor : [GeetHub Editor](https://geethub-editor.netlify.com)
-* SunGeet (GeetHub Community) : [SunGeet](https://sungeet.netlify.com)
+* SunGeet (GeetHub Community) : [SunGeet](https://geet-hub-community-1.vercel.app)
 
 ## SET-UP
 * Create a fork of the repository to your local machine
